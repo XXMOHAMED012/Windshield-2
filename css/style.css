@@ -313,6 +313,7 @@ ul{
     position: relative;
     /* background: linear-gradient( rgb(180, 250, 255) 65% , rgb(222, 253, 255) ); */
     background: linear-gradient( #ffaf1a , rgb(255, 45, 45) );
+    overflow: hidden;
 }
 
 .landing::before{
